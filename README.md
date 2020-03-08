@@ -1,6 +1,6 @@
-# ConsoleApplication5
+# Object Tracking in Video
  
-Fact Tracking using OpenCV
+Object (face) tracking in video using OpenCV
 
 Dependencies: OpenCV
 
